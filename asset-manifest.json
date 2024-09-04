@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24505fcd.css",
+    "main.js": "/static/js/main.f9159b6c.js",
+    "static/js/453.0a4d1a8f.chunk.js": "/static/js/453.0a4d1a8f.chunk.js",
+    "static/media/lines.png": "/static/media/lines.d3e1b8b38f0b4d79db59.png",
+    "static/media/rvhospitality.webp": "/static/media/rvhospitality.9e0d7939a2cdb8f5fdb6.webp",
+    "static/media/DeveloperJatinResume.pdf": "/static/media/DeveloperJatinResume.527b34d83959d6ef5e33.pdf",
+    "static/media/Developer-Jatin_profile-pic.webp": "/static/media/Developer-Jatin_profile-pic.e1c6e5f19bffee359871.webp",
+    "static/media/drrajeevsood.webp": "/static/media/drrajeevsood.47696da55a2fb529561e.webp",
+    "static/media/rerafiling.webp": "/static/media/rerafiling.3edac3507f7f2386e8d9.webp",
+    "static/media/engageai.webp": "/static/media/engageai.dca7ef15a069cae40d7d.webp",
+    "static/media/growthitm.webp": "/static/media/growthitm.17b720090e68f567ad50.webp",
+    "static/media/developerJatin.svg": "/static/media/developerJatin.07684c28996abd4110848a11c429bfdc.svg",
+    "static/media/therapidrecruiters.webp": "/static/media/therapidrecruiters.261202a0f74608081203.webp",
+    "static/media/bootstrap.webp": "/static/media/bootstrap.593affa93d78177844e1.webp",
+    "static/media/global-opportunities.webp": "/static/media/global-opportunities.54e020a07959691eac58.webp",
+    "static/media/wordpress.webp": "/static/media/wordpress.1cb412d18b3fd9fa1c9b.webp",
+    "static/media/react.webp": "/static/media/react.9ac3336ce5c68cbb4895.webp",
+    "static/media/codeignitor.webp": "/static/media/codeignitor.e455596a160d93df03d9.webp",
+    "static/media/jquery.webp": "/static/media/jquery.ebb60582dc5ddd5b8076.webp",
+    "static/media/ajax.webp": "/static/media/ajax.75d85c54c297954252d8.webp",
+    "static/media/digitalapss.webp": "/static/media/digitalapss.0974b3907c780fb79651.webp",
+    "static/media/core-php.webp": "/static/media/core-php.15f135066c985adbebd3.webp",
+    "static/media/mysql.webp": "/static/media/mysql.0a6010c202fdae029715.webp",
+    "static/media/css.webp": "/static/media/css.0b3571c4e41225b35f0d.webp",
+    "static/media/html.webp": "/static/media/html.2e7435b7f8f90aa52742.webp",
+    "static/media/js.webp": "/static/media/js.f0d663e0002a34f24d40.webp",
+    "static/media/json.webp": "/static/media/json.926a6a702bb78a9b101a.webp",
+    "index.html": "/index.html",
+    "main.24505fcd.css.map": "/static/css/main.24505fcd.css.map",
+    "main.f9159b6c.js.map": "/static/js/main.f9159b6c.js.map",
+    "453.0a4d1a8f.chunk.js.map": "/static/js/453.0a4d1a8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24505fcd.css",
+    "static/js/main.f9159b6c.js"
+  ]
+}
