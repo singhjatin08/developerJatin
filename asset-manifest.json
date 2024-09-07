@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/developerJatin/static/css/main.24505fcd.css",
-    "main.js": "/developerJatin/static/js/main.665ae334.js",
+    "main.css": "/developerJatin/static/css/main.98be050a.css",
+    "main.js": "/developerJatin/static/js/main.0003cf1b.js",
     "static/js/453.0a4d1a8f.chunk.js": "/developerJatin/static/js/453.0a4d1a8f.chunk.js",
     "static/media/lines.png": "/developerJatin/static/media/lines.d3e1b8b38f0b4d79db59.png",
+    "static/media/ituapt_logo.png": "/developerJatin/static/media/ituapt_logo.8d1462bbef78e71e62f9.png",
+    "static/media/globalOpportunities.webp": "/developerJatin/static/media/globalOpportunities.3093612eea7922d92230.webp",
     "static/media/rvhospitality.webp": "/developerJatin/static/media/rvhospitality.9e0d7939a2cdb8f5fdb6.webp",
     "static/media/DeveloperJatinResume.pdf": "/developerJatin/static/media/DeveloperJatinResume.527b34d83959d6ef5e33.pdf",
+    "static/media/marwarihorses.webp": "/developerJatin/static/media/marwarihorses.5e2805c6be1ddaca1646.webp",
     "static/media/Developer-Jatin_profile-pic.webp": "/developerJatin/static/media/Developer-Jatin_profile-pic.e1c6e5f19bffee359871.webp",
     "static/media/drrajeevsood.webp": "/developerJatin/static/media/drrajeevsood.47696da55a2fb529561e.webp",
     "static/media/rerafiling.webp": "/developerJatin/static/media/rerafiling.3edac3507f7f2386e8d9.webp",
     "static/media/engageai.webp": "/developerJatin/static/media/engageai.dca7ef15a069cae40d7d.webp",
     "static/media/growthitm.webp": "/developerJatin/static/media/growthitm.17b720090e68f567ad50.webp",
+    "static/media/shreeMedia.webp": "/developerJatin/static/media/shreeMedia.f00da095358c68851b3b.webp",
     "static/media/developerJatin.svg": "/developerJatin/static/media/developerJatin.07684c28996abd4110848a11c429bfdc.svg",
     "static/media/therapidrecruiters.webp": "/developerJatin/static/media/therapidrecruiters.261202a0f74608081203.webp",
     "static/media/bootstrap.webp": "/developerJatin/static/media/bootstrap.593affa93d78177844e1.webp",
@@ -28,12 +32,12 @@
     "static/media/js.webp": "/developerJatin/static/media/js.f0d663e0002a34f24d40.webp",
     "static/media/json.webp": "/developerJatin/static/media/json.926a6a702bb78a9b101a.webp",
     "index.html": "/developerJatin/index.html",
-    "main.24505fcd.css.map": "/developerJatin/static/css/main.24505fcd.css.map",
-    "main.665ae334.js.map": "/developerJatin/static/js/main.665ae334.js.map",
+    "main.98be050a.css.map": "/developerJatin/static/css/main.98be050a.css.map",
+    "main.0003cf1b.js.map": "/developerJatin/static/js/main.0003cf1b.js.map",
     "453.0a4d1a8f.chunk.js.map": "/developerJatin/static/js/453.0a4d1a8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24505fcd.css",
-    "static/js/main.665ae334.js"
+    "static/css/main.98be050a.css",
+    "static/js/main.0003cf1b.js"
   ]
 }
