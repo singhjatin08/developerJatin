@@ -10,6 +10,10 @@ import Education from "./Education";
 import Portfolio from "./Portfolio";
 import Contact from "./Contact";
 
+import 'aos/dist/aos.css';
+import AOS from 'aos';
+AOS.init(); 
+
 export default function Home() {
   const typewriterRef = useRef(null);
 

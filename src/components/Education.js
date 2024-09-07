@@ -5,13 +5,14 @@ import ignou from '../assets/img/ignou.png'
 import HexaCode from '../assets/img/hexacode.png'
 
 
+
 export default function Education() {
     return (
         <section className="education experience" id='education'>
             <img src={lines} alt="lines" className="lines" />
             <h2 className="section-heading-orange mb-5">Education</h2>
             <div className="container education-container experience-container">
-                <div className="experience-box">
+                <div data-aos="fade-right" data-aos-delay="300" className="experience-box">
                     <div className="experience-box-inner">
                         <h2>WEB DEVELOPMENT COURSE</h2>
                         <div className="d-flex justify-content-between">
@@ -29,7 +30,7 @@ export default function Education() {
                         </div>
                     </div>
                 </div>
-                <div className="experience-box">
+                <div className="experience-box" data-aos="fade-left" data-aos-delay="300" >
                     <div className="experience-box-inner">
                         <h2>Bechlor of Science(BSC)</h2>
                         <div className="d-flex justify-content-between">
@@ -44,7 +45,7 @@ export default function Education() {
                         </div>
                     </div>
                 </div>
-                <div className="experience-box">
+                <div className="experience-box" data-aos="fade-right" data-aos-delay="300" >
                     <div className="experience-box-inner">
                         <h2>Senior Secondary</h2>
                         <div className="d-flex justify-content-between">

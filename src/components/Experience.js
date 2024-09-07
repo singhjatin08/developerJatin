@@ -2,6 +2,7 @@ import React from "react";
 import digitalapssLogo from "../assets/img/digitalapss.webp";
 import globalLogo from "../assets/img/global-opportunities.webp";
 import lines from '../assets/img/lines.png' 
+import ituLogo from "../assets/img/ituapt_logo.png"
 
 export default function Experience() {
   return (
@@ -10,7 +11,7 @@ export default function Experience() {
       <img src={lines} alt="lines" className="lines" /> 
         <h2 className="section-heading-dark mb-5">Experience</h2>
         <div className="container experience-container">
-          <div className="experience-box">
+          <div data-aos="fade-right" data-aos-delay="300"  className="experience-box">
             <div className="experience-box-inner">
               <h2>Web Developer</h2>
               <div className="d-flex justify-content-between">
@@ -32,7 +33,7 @@ export default function Experience() {
               </div>
             </div>
           </div>
-          <div className="experience-box">
+          <div data-aos="fade-left" data-aos-delay="300"  className="experience-box">
             <div className="experience-box-inner">
               <h2>Web Designer & Developer</h2>
               <div className="d-flex justify-content-between">
@@ -57,7 +58,7 @@ export default function Experience() {
               </div>
             </div>
           </div>
-          <div className="experience-box">
+          <div data-aos="fade-right" data-aos-delay="300"  className="experience-box">
             <div className="experience-box-inner">
               <h2>WEB DEVELOPER</h2>
               <div className="d-flex justify-content-between">
@@ -75,14 +76,12 @@ export default function Experience() {
               </ul>
               <div className="company-logo">
                 <img
-                  src="https://iafi.in/system/static/frontend/img/Untitled%20design%20-%202022-12-15T175206.909-min%20(1).png"
-                  alt="company logo"
+                  src={ituLogo}
+                  alt="ITU APT Foundation logo"
                 />
               </div>
             </div>
           </div>
-
-          <div className="piller"></div>
         </div>
       </section>
     </>
