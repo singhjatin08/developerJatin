@@ -10,7 +10,7 @@ export default function Contact() {
         const formData = new FormData(form);
 
         try {
-            const response = await axios.post('https://shreemedia.co/api/register', formData, {
+            await axios.post('https://shreemedia.co/api/register', formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data',
                 },
@@ -19,7 +19,7 @@ export default function Contact() {
             
             const messageBox = document.getElementById("successMessage");
             const submit = document.getElementById("submit");
-
+            form.reset();
             messageBox.innerHTML = msg;
             submit.disabled = true;
         } catch (error) {
