@@ -16,7 +16,7 @@ export default function Contact() {
                 },
             });
             const msg = '<div class="alert alert-success">Thanks for contacting me. I will get in touch with you Shortly!</div>'
-            
+
             const messageBox = document.getElementById("successMessage");
             const submit = document.getElementById("submit");
             form.reset();
@@ -68,20 +68,26 @@ export default function Contact() {
                         <div className='contact-card-container'>
                             <div className='contact-card card mb-3'>
                                 <div className='card-body'>
-                                    <h2><i className="fa-solid fa-phone"></i> </h2>
+                                    <h2><i className="fa-solid fa-phone text-primary"></i> </h2>
                                     <h4>Call Me : <a href='tel:+91 9205329258'>+91 9205329258</a></h4>
                                 </div>
                             </div>
                             <div className='contact-card card mb-3'>
                                 <div className='card-body'>
-                                    <h2><i className="fa-solid fa-envelope"></i></h2>
+                                    <h2><i className="fa-solid fa-envelope text-danger"></i></h2>
                                     <h4>Mail Me : <a href="mailto:gs.tem08@gmail.com">gs.tem08@gmail.com</a></h4>
                                 </div>
                             </div>
                             <div className='contact-card card mb-3'>
                                 <div className='card-body'>
-                                    <h2><i className="fa-solid fa-home"></i></h2>
-                                    <h4>Address : <span className='text-primary'>Shiv Park Khora Colony, Ghaziabad</span></h4>
+                                    <h2>
+                                        <a className='px-2 text-danger' rel="noreferrer" target='_blank' href='https://www.instagram.com/roaming_views_official/'><i className="fa-brands fa-instagram"></i></a>
+                                        <a className='px-2' rel="noreferrer" target='_blank' href='https://www.facebook.com/singhjatin08'><i className="fa-brands fa-facebook"></i></a>
+                                        <a className='px-2 text-dark' rel="noreferrer" target='_blank' href='https://github.com/singhjatin08/'><i className="fa-brands fa-github"></i></a>
+                                        <a className='px-2' rel="noreferrer" target='_blank' href='https://www.linkedin.com/in/jatin-singh-2b5949179'><i className="fa-brands fa-linkedin"></i></a>
+                                        <a className='px-2 text-danger' rel="noreferrer" target='_blank' href='https://www.linkedin.com/in/jatin-singh-2b5949179'><i className="fa-brands fa-youtube"></i></a>
+                                    </h2>
+                                    <h4>Social Platform Presence</h4>
                                 </div>
                             </div>
                         </div>

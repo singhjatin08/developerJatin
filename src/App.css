@@ -565,3 +565,6 @@ footer {
 .link{
   color: var(--color3);
 }
+.nav-call .nav-link{
+  display: inline-block;
+}
