@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/developerJatin/static/css/main.98be050a.css",
-    "main.js": "/developerJatin/static/js/main.0003cf1b.js",
+    "main.css": "/developerJatin/static/css/main.5d20309d.css",
+    "main.js": "/developerJatin/static/js/main.3669a0fc.js",
     "static/js/453.0a4d1a8f.chunk.js": "/developerJatin/static/js/453.0a4d1a8f.chunk.js",
     "static/media/lines.png": "/developerJatin/static/media/lines.d3e1b8b38f0b4d79db59.png",
     "static/media/ituapt_logo.png": "/developerJatin/static/media/ituapt_logo.8d1462bbef78e71e62f9.png",
@@ -32,12 +32,12 @@
     "static/media/js.webp": "/developerJatin/static/media/js.f0d663e0002a34f24d40.webp",
     "static/media/json.webp": "/developerJatin/static/media/json.926a6a702bb78a9b101a.webp",
     "index.html": "/developerJatin/index.html",
-    "main.98be050a.css.map": "/developerJatin/static/css/main.98be050a.css.map",
-    "main.0003cf1b.js.map": "/developerJatin/static/js/main.0003cf1b.js.map",
+    "main.5d20309d.css.map": "/developerJatin/static/css/main.5d20309d.css.map",
+    "main.3669a0fc.js.map": "/developerJatin/static/js/main.3669a0fc.js.map",
     "453.0a4d1a8f.chunk.js.map": "/developerJatin/static/js/453.0a4d1a8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98be050a.css",
-    "static/js/main.0003cf1b.js"
+    "static/css/main.5d20309d.css",
+    "static/js/main.3669a0fc.js"
   ]
 }
