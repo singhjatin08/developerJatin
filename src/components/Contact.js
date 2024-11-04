@@ -85,7 +85,7 @@ export default function Contact() {
                                         <a className='px-2' rel="noreferrer" target='_blank' href='https://www.facebook.com/singhjatin08'><i className="fa-brands fa-facebook"></i></a>
                                         <a className='px-2 text-dark' rel="noreferrer" target='_blank' href='https://github.com/singhjatin08/'><i className="fa-brands fa-github"></i></a>
                                         <a className='px-2' rel="noreferrer" target='_blank' href='https://www.linkedin.com/in/jatin-singh-2b5949179'><i className="fa-brands fa-linkedin"></i></a>
-                                        <a className='px-2 text-danger' rel="noreferrer" target='_blank' href='https://www.linkedin.com/in/jatin-singh-2b5949179'><i className="fa-brands fa-youtube"></i></a>
+                                        <a className='px-2 text-danger' rel="noreferrer" target='_blank' href='https://www.youtube.com/@roaming_views'><i className="fa-brands fa-youtube"></i></a>
                                     </h2>
                                     <h4>Social Platform Presence</h4>
                                 </div>
