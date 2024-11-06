@@ -1,6 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import Typewriter from "typewriter-effect/dist/core";
-import profile from "../assets/img/Developer-Jatin_profile-pic.webp";
+import Typewriter from "typewriter-effect/dist/core"; 
 import lines from "../assets/img/lines.png";
 
 import About from "./About";
@@ -53,7 +52,7 @@ export default function Home() {
             </div>
             <div className="col-md-5 d-flex align-items-center justify-content-center">
               <div className="banner-profile">
-                <img src={profile} alt="Developer Jatin" />
+                <img src={process.env.PUBLIC_URL + '/assets/img/Developer-Jatin_profile-pic.webp'} alt="Web Developer Jatin Portfolio" />
               </div>
             </div>
           </div>

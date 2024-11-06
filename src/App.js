@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import logo from "./assets/img/developerJatin.svg"
+// import logo from "./assets/img/developerJatin.svg"
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 import Header from './components/Header';
@@ -19,14 +19,14 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/developerjatin/" element={<Header logo={logo} />}>
+          <Route path="/developerJatin/" element={<Header  />}>
             <Route index element={<Home />} />
-            <Route path='/developerjatin/about' element={<About />} />
-            <Route path='/developerjatin/experience' element={<Experience />} />
-            <Route path='/developerjatin/portfolio' element={<Portfolio/>}/>
-            <Route path='/developerjatin/contact' element={<Contact/>}/>
-            <Route path='/developerjatin/education' element={ <Education/>}/>
-            <Route path='/developerjatin/skills' element={ <Skills/>}/>
+            <Route path='/developerJatin/about' element={<About />} />
+            <Route path='/developerJatin/experience' element={<Experience />} />
+            <Route path='/developerJatin/portfolio' element={<Portfolio/>}/>
+            <Route path='/developerJatin/contact' element={<Contact/>}/>
+            <Route path='/developerJatin/education' element={ <Education/>}/>
+            <Route path='/developerJatin/skills' element={ <Skills/>}/>
             <Route path="*" element={<Nopage />} />
           </Route >
         </Routes>
