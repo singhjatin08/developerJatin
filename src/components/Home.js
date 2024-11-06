@@ -41,26 +41,19 @@ export default function Home() {
             <div className="col-md-7 banner-content">
               <div>
                 <p className="welcome-heading">Welcome to my world</p>
-                <h1 className="banner-heading">
+                <div className="banner-heading">
                   <span>Hi! I am </span>
                   <span className="text-orange">Jatin Singh</span>
-                  <br /> a <span ref={typewriterRef}>WEB DEVELOPER</span>
-                </h1>
+                  <br /> a <h1 className="d-inline-block fw-bold" ref={typewriterRef}>WEB DEVELOPER</h1>
+                </div>
                 <p className="banner-description">
-                  {/* With my expertise as the best web developer in Noida, I
-                  specialize in front-end technologies including HTML/CSS,
-                  JavaScript/jQuery, React JS, and Bootstrap to create intuitive
-                  and responsive web interfaces. In addition to my front-end
-                  skills, I excel in backend development using Core PHP and
-                  Codeigniter, ensuring robust database management and seamless
-                  functionality. */}
-                  My expertise lies in front-end technologies such as HTML/CSS, JavaScript/jQuery, React JS, and Bootstrap, which I leverage to craft intuitive and responsive web interfaces as a Web Designer. In addition to front-end development, I excel in backend development using Core PHP and Codeigniter, ensuring robust database management and seamless functionality as a Web Developer or Professional Coder.
+                I’m Jatin Singh, a passionate web developer and php developer in delhi ncr, specializing in front-end (HTML, CSS, JavaScript) and back-end (PHP, CodeIgniter). Check out my portfolio of responsive, dynamic websites designed to boost your online presence.
                 </p>
               </div>
             </div>
             <div className="col-md-5 d-flex align-items-center justify-content-center">
               <div className="banner-profile">
-                <img src={profile} alt="Developer Jatin Profile Pic" />
+                <img src={profile} alt="Developer Jatin" />
               </div>
             </div>
           </div>

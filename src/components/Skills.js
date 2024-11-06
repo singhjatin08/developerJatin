@@ -88,7 +88,7 @@ export default function Skills() {
 
                     return (
                       <div className="img-box" key={index} style={style}>
-                        <img src={src} alt={`Skill ${index}`} />
+                        <img src={src} alt={`Web/Php developer skill ${index}`} />
                       </div>
                     );
                   })}
