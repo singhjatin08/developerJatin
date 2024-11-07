@@ -568,3 +568,6 @@ footer {
 .nav-call .nav-link{
   display: inline-block;
 }
+.main-h1{
+  font-size: 2.5rem;
+}

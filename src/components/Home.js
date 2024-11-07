@@ -19,10 +19,9 @@ export default function Home() {
   useEffect(() => {
     const typewriter = new Typewriter(typewriterRef.current, {
       strings: [
-        "Web Developer",
-        "Professional Coder",
-        "Web Designer",
-        "PHP Developer",
+        "PHP Web Developer",
+        "Professional Web Designer",
+        "WordPress Developer",
       ],
       autoStart: true,
       loop: true,
@@ -43,10 +42,10 @@ export default function Home() {
                 <div className="banner-heading">
                   <span>Hi! I am </span>
                   <span className="text-orange">Jatin Singh</span>
-                  <br /> a <h1 className="d-inline-block fw-bold" ref={typewriterRef}>WEB DEVELOPER</h1>
+                  <br /> a <span ref={typewriterRef}>WEB DEVELOPER</span>
                 </div>
                 <p className="banner-description">
-                I’m Jatin Singh, a passionate web developer and php developer in delhi ncr, specializing in front-end (HTML, CSS, JavaScript) and back-end (PHP, CodeIgniter). Check out my portfolio of responsive, dynamic websites designed to boost your online presence.
+                I’m Jatin Singh, a passionate php web developer in delhi ncr, specializing in front-end (HTML, CSS, JavaScript) and back-end (PHP, CodeIgniter). Check out my portfolio of responsive, dynamic websites designed to boost your online presence.
                 </p>
               </div>
             </div>
