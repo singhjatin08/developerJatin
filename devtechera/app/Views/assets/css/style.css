@@ -1,0 +1,28 @@
+.main-slider-five__content{
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
+.main-slider-five .thm-owl__carousel.owl-carousel .owl-dots{
+    bottom:60px;
+}
+.slide3{
+    background-image: url(../images/backgrounds/digital-marketing-company-in-delhi-ncr.webp);
+}
+.slide2{
+    background-image: url(../images/backgrounds/graphic-design-agency-in-delhi-ncr.webp);
+}
+.slide1{
+    background-image: url(../images/backgrounds/web-development-company-in-delhi-ncr.webp);
+}
+.main-slider-five__left-shape{
+    background-image: url(../images/shapes/main-slider-five-left-shape.png);
+}
+.main-slider-five__shape-one{
+    background-image: url(../images/shapes/main-slider-five-shape-1.png);
+}
+.main-slider-five__shape-two{
+    background-image: url(../images/shapes/main-slider-five-shape-2.png);
+}
+.main-slider-five__shape-three{
+    background-image: url(../images/shapes/main-slider-five-shape-3.png);
+}
