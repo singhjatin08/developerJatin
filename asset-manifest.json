@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developerJatin/static/css/main.0fd4f7ba.css",
-    "main.js": "/developerJatin/static/js/main.ebd44ad1.js",
+    "main.js": "/developerJatin/static/js/main.b67f5a5c.js",
     "static/js/453.737b3b02.chunk.js": "/developerJatin/static/js/453.737b3b02.chunk.js",
     "static/media/lines.png": "/developerJatin/static/media/lines.d3e1b8b38f0b4d79db59.png",
     "static/media/ituapt_logo.png": "/developerJatin/static/media/ituapt_logo.8d1462bbef78e71e62f9.png",
@@ -17,6 +17,7 @@
     "static/media/therapidrecruiters.webp": "/developerJatin/static/media/therapidrecruiters.261202a0f74608081203.webp",
     "static/media/bootstrap.webp": "/developerJatin/static/media/bootstrap.593affa93d78177844e1.webp",
     "static/media/global-opportunities.webp": "/developerJatin/static/media/global-opportunities.54e020a07959691eac58.webp",
+    "index.html": "/developerJatin/index.html",
     "static/media/wordpress.webp": "/developerJatin/static/media/wordpress.1cb412d18b3fd9fa1c9b.webp",
     "static/media/react.webp": "/developerJatin/static/media/react.9ac3336ce5c68cbb4895.webp",
     "static/media/codeignitor.webp": "/developerJatin/static/media/codeignitor.e455596a160d93df03d9.webp",
@@ -27,15 +28,14 @@
     "static/media/mysql.webp": "/developerJatin/static/media/mysql.0a6010c202fdae029715.webp",
     "static/media/css.webp": "/developerJatin/static/media/css.0b3571c4e41225b35f0d.webp",
     "static/media/html.webp": "/developerJatin/static/media/html.2e7435b7f8f90aa52742.webp",
-    "index.html": "/developerJatin/index.html",
     "static/media/js.webp": "/developerJatin/static/media/js.f0d663e0002a34f24d40.webp",
     "static/media/json.webp": "/developerJatin/static/media/json.926a6a702bb78a9b101a.webp",
     "main.0fd4f7ba.css.map": "/developerJatin/static/css/main.0fd4f7ba.css.map",
-    "main.ebd44ad1.js.map": "/developerJatin/static/js/main.ebd44ad1.js.map",
+    "main.b67f5a5c.js.map": "/developerJatin/static/js/main.b67f5a5c.js.map",
     "453.737b3b02.chunk.js.map": "/developerJatin/static/js/453.737b3b02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fd4f7ba.css",
-    "static/js/main.ebd44ad1.js"
+    "static/js/main.b67f5a5c.js"
   ]
 }
