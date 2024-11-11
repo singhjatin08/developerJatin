@@ -73,7 +73,7 @@
                 </div>
             </div>
         </div>
-        <div class="site-footer-two__copyright">© All Copyright 2024 by <a href="index.html">Zeinet.com</a>
+        <div class="site-footer-two__copyright">© All Copyright 2024 by <a href="<?=base_url("public")?>">DevTechEra</a>
         </div>
     </div>
 </footer>
@@ -100,11 +100,11 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:needhelp@packageName__.com">needhelp@zeinet.com</a>
+                <a href="mailto:info@devtechera.com">info@devtechera.com</a>
             </li>
             <li>
                 <i class="fa fa-phone-alt"></i>
-                <a href="tel:666-888-0000">666 888 0000</a>
+                <a href="tel:+91 9205329258">+91 9205329258</a>
             </li>
         </ul><!-- /.mobile-nav__contact -->
         <div class="mobile-nav__top">

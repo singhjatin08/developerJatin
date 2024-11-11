@@ -54,7 +54,7 @@
                 <div class="main-menu__wrapper clearfix">
                     <div class="main-menu__left">
                         <div class="main-menu__logo">
-                            <a href="/">
+                            <a href="<?=base_url("public")?>">
                                 <!-- <img src="assets/images/resources/logo-5.png" alt="zeinet" width="129"> -->
                                  <span class="fw-bold">DevTechEra</span>
                             </a>
@@ -63,14 +63,14 @@
                     <div class="main-menu__main-menu-box">
                         <ul class="main-menu__list">
                             <li class="active menu_item">
-                                <a href="/">Home</a> 
+                                <a href="<?=base_url("public")?>">Home</a> 
                             </li>
                             <li class="menu_item">
-                                <a href="about.html">About</a>
+                                <a href="<?=base_url("public/about")?>">About</a>
                             </li>
 
                             <li class="dropdown menu_item">
-                                <a href="#">Services</a>
+                                <a href="<?=base_url("public/services")?>">Services</a>
                                 <ul class="shadow-box">
                                     <li><a href="services.html">Web Design & Development</a></li>
                                     <li><a href="services-carousel.html">Graphic Designing</a></li>
@@ -81,15 +81,15 @@
                             </li>
 
                             <li class="menu_item">
-                                <a href="#">Portfolio</a>
+                                <a href="<?=base_url("public/portfolio")?>">Portfolio</a>
                             </li>
                             
                             <li class="menu_item">
-                                <a href="#">Blogs</a>
+                                <a href="<?=base_url("public/blogs")?>">Blogs</a>
                             </li>
                             
                             <li class="menu_item">
-                                <a href="contact.html">Contact</a>
+                                <a href="<?=base_url("public/contact")?>">Contact</a>
                             </li>
                         </ul>
                     </div>

@@ -137,7 +137,7 @@
                         <div class="feature-four__single__icon">
                             <span class="icon-router"></span>
                         </div>
-                        <h3 class="feature-four__single__title"><a href="broadband.html">Broadband Connections</a>
+                        <h3 class="feature-four__single__title"><a href="broadband.html">Web Design & Development</a>
                         </h3>
                         <p class="feature-four__single__text">
                             It was popularised in the with the release sheets containing more recently with
@@ -152,8 +152,7 @@
                         <div class="feature-four__single__icon">
                             <span class="zeinet-icons-two-satelite"></span>
                         </div>
-                        <h3 class="feature-four__single__title"><a href="tv-streaming.html">Satellite TV
-                                Connections</a></h3>
+                        <h3 class="feature-four__single__title"><a href="tv-streaming.html">Graphic Design</a></h3>
                         <p class="feature-four__single__text">
                             It was popularised in the with the release sheets containing more recently with
                             software.
@@ -167,8 +166,35 @@
                         <div class="feature-four__single__icon">
                             <span class="zeinet-icons-two-wifi-two"></span>
                         </div>
-                        <h3 class="feature-four__single__title"><a href="fast-internet.html">Fast Wifi
-                                Connections</a></h3>
+                        <h3 class="feature-four__single__title"><a href="fast-internet.html">Digital Marketing</a></h3>
+                        <p class="feature-four__single__text">
+                            It was popularised in the with the release sheets containing more recently with
+                            software.
+                        </p>
+                    </div>
+                </div><!--Feature-->
+                <div class="col-md-6 col-lg-4 wow fadeInUp mx-auto" data-wow-delay="200ms">
+                    <div class="feature-four__single">
+                        <div class="feature-four__single__shape"
+                            style="background-image: url(assets/images/shapes/feature-item-bg.png);"></div>
+                        <div class="feature-four__single__icon">
+                            <span class="zeinet-icons-two-wifi-two"></span>
+                        </div>
+                        <h3 class="feature-four__single__title"><a href="fast-internet.html">Video Editing</a></h3>
+                        <p class="feature-four__single__text">
+                            It was popularised in the with the release sheets containing more recently with
+                            software.
+                        </p>
+                    </div>
+                </div><!--Feature-->
+                <div class="col-md-6 col-lg-4 wow fadeInUp mx-auto" data-wow-delay="200ms">
+                    <div class="feature-four__single">
+                        <div class="feature-four__single__shape"
+                            style="background-image: url(assets/images/shapes/feature-item-bg.png);"></div>
+                        <div class="feature-four__single__icon">
+                            <span class="zeinet-icons-two-wifi-two"></span>
+                        </div>
+                        <h3 class="feature-four__single__title"><a href="fast-internet.html">ERP & Software</a></h3>
                         <p class="feature-four__single__text">
                             It was popularised in the with the release sheets containing more recently with
                             software.

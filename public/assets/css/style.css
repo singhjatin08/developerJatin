@@ -26,3 +26,6 @@
 .main-slider-five__shape-three{
     background-image: url(../images/shapes/main-slider-five-shape-3.png);
 }
+.odometer.odometer-auto-theme .odometer-digit .odometer-digit-inner, .odometer.odometer-theme-default .odometer-digit .odometer-digit-inner{
+    right: -8px;
+}
