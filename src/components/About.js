@@ -8,12 +8,12 @@ export default function About() {
         <img src={lines} alt="lines" className="lines" />
         <div className="container">
           {/* <h3 className="text-center">About : Developer Jatin</h3> */}
-          <h2 className="section-heading-dark main-h1 pb-4">
-            About Developer Jatin
-          </h2>
+          <h1 className="section-heading-dark main-h1 pb-4">
+            Web Developer Jatin
+          </h1>
           <div className="about-content">
             <p>
-              I am Jatin Singh, a dedicated Web Developer or PHP Developer with a passion for
+              I am Jatin Singh, a dedicated <strong>Web Developer or PHP Developer</strong> with a passion for
               creating dynamic and visually appealing websites in Delhi NCR.
               Over the past 3+ years, I have honed my skills through practical
               experience and academic achievements, graduating with a Bachelor

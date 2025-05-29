@@ -10,12 +10,12 @@ export default function Contact() {
         const formData = new FormData(form);
 
         try {
-            await axios.post('https://shreemedia.co/api/register', formData, {
+            await axios.post('https://jatin.devtechera.com/admin/api/submit-enquiry', formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data',
                 },
             });
-            const msg = '<div class="alert alert-success">Thanks for contacting me. I will get in touch with you Shortly!</div>'
+            const msg = '<div className="alert alert-success">Thanks for contacting me. I will get in touch with you Shortly!</div>'
 
             const messageBox = document.getElementById("successMessage");
             const submit = document.getElementById("submit");
@@ -81,7 +81,7 @@ export default function Contact() {
                             <div className='contact-card card mb-3'>
                                 <div className='card-body'>
                                     <h2>
-                                        <a className='px-2 text-warning' rel="noreferrer follow" target='_blank' href='https://www.about.me/developerjatin'><i class="fa-solid fa-user"></i></a>
+                                        <a className='px-2 text-warning' rel="noreferrer follow" target='_blank' href='https://www.about.me/developerjatin'><i className="fa-solid fa-user"></i></a>
                                         <a className='px-2 text-danger' rel="noreferrer follow" target='_blank' href='https://www.instagram.com/roaming_views_official/'><i className="fa-brands fa-instagram"></i></a>
                                         <a className='px-2' rel="noreferrer follow" target='_blank' href='https://www.facebook.com/singhjatin08'><i className="fa-brands fa-facebook"></i></a>
                                         <a className='px-2 text-dark' rel="noreferrer follow" target='_blank' href='https://github.com/singhjatin08/'><i className="fa-brands fa-github"></i></a>
