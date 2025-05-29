@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developerJatin/static/css/main.0fd4f7ba.css",
-    "main.js": "/developerJatin/static/js/main.fde5be34.js",
+    "main.js": "/developerJatin/static/js/main.94fb0f02.js",
     "static/js/453.737b3b02.chunk.js": "/developerJatin/static/js/453.737b3b02.chunk.js",
     "static/media/lines.png": "/developerJatin/static/media/lines.d3e1b8b38f0b4d79db59.png",
     "static/media/ituapt_logo.png": "/developerJatin/static/media/ituapt_logo.8d1462bbef78e71e62f9.png",
@@ -17,9 +17,9 @@
     "static/media/therapidrecruiters.webp": "/developerJatin/static/media/therapidrecruiters.261202a0f74608081203.webp",
     "static/media/bootstrap.webp": "/developerJatin/static/media/bootstrap.593affa93d78177844e1.webp",
     "static/media/global-opportunities.webp": "/developerJatin/static/media/global-opportunities.54e020a07959691eac58.webp",
-    "index.html": "/developerJatin/index.html",
     "static/media/wordpress.webp": "/developerJatin/static/media/wordpress.1cb412d18b3fd9fa1c9b.webp",
     "static/media/react.webp": "/developerJatin/static/media/react.9ac3336ce5c68cbb4895.webp",
+    "index.html": "/developerJatin/index.html",
     "static/media/codeignitor.webp": "/developerJatin/static/media/codeignitor.e455596a160d93df03d9.webp",
     "static/media/jquery.webp": "/developerJatin/static/media/jquery.ebb60582dc5ddd5b8076.webp",
     "static/media/ajax.webp": "/developerJatin/static/media/ajax.75d85c54c297954252d8.webp",
@@ -31,11 +31,11 @@
     "static/media/js.webp": "/developerJatin/static/media/js.f0d663e0002a34f24d40.webp",
     "static/media/json.webp": "/developerJatin/static/media/json.926a6a702bb78a9b101a.webp",
     "main.0fd4f7ba.css.map": "/developerJatin/static/css/main.0fd4f7ba.css.map",
-    "main.fde5be34.js.map": "/developerJatin/static/js/main.fde5be34.js.map",
+    "main.94fb0f02.js.map": "/developerJatin/static/js/main.94fb0f02.js.map",
     "453.737b3b02.chunk.js.map": "/developerJatin/static/js/453.737b3b02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fd4f7ba.css",
-    "static/js/main.fde5be34.js"
+    "static/js/main.94fb0f02.js"
   ]
 }
