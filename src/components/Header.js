@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../assets/img/DeveloperJatinResume.pdf'
+import resume from '../assets/img/Web-Developer-Jatin-Singh.pdf'
 import { Link, Outlet } from "react-router-dom";
 
 

@@ -13,6 +13,13 @@ import react from "../assets/img/skills/react.webp";
 import mysql from "../assets/img/skills/mysql.webp";
 import lines from "../assets/img/lines.png";
 
+import godaddy from "../assets/img/skills/godaddy.webp";
+import hostinger from "../assets/img/skills/hostinger.webp";  
+import laravel from "../assets/img/skills/laravel.webp";
+import nodejs from "../assets/img/skills/nodejs.webp";
+import payment_gateway from "../assets/img/skills/payment-gateway.webp";
+import rest_api from "../assets/img/skills/rest-api.webp";
+
 export default function Skills() {
   const [scrollPosition, setScrollPosition] = useState(0);
 
@@ -38,11 +45,11 @@ export default function Skills() {
         <div className="container">
           <h2 className="section-heading-orange">TECHNICAL SKILLS</h2>
           <div className="row">
-            <div className="col-md-6">
+            <div className="col-md-4">
               <div className="skill-container">
                 <h2>SKILLS</h2>
                 <div className="skill-icon-container">
-                  {[html, css, js, jQuery, ajax, react].map((src, index) => {
+                  {[html, css, js, jQuery, ajax, rest_api].map((src, index) => {
                     const angle = (index / 6) * 2 * Math.PI;
                     const radius = 100;
                     const x = Math.cos(angle) * radius;
@@ -63,7 +70,39 @@ export default function Skills() {
                 </div>
               </div>
             </div>
-            <div className="col-md-6">
+            <div className="col-md-4">
+              <div className="skill-container">
+                <h2>SKILLS</h2>
+                <div className="skill-icon-container">
+                  {[
+                    laravel,
+                    nodejs,
+                    react,
+                    payment_gateway,
+                    godaddy,
+                    hostinger,
+                  ].map((src, index) => {
+                    const angle = (index / 6) * 2 * Math.PI;
+                    const radius = 100;
+                    const x = Math.cos(angle) * radius;
+                    const y = Math.sin(angle) * radius;
+
+                    const style = {
+                      transform: scrollPosition < skillPosition ? `translate(0px, 0px)` :`translate(${x}px, ${y}px)`,
+                      opacity: "1",
+                      transition: "all 0.5s ease",
+                    };
+
+                    return (
+                      <div className="img-box p-0" key={index} style={style}>
+                        <img src={src} alt={`Web developer jatin skill ${index}`} />
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            </div>
+            <div className="col-md-4">
               <div className="skill-container">
                 <h2>SKILLS</h2>
                 <div className="skill-icon-container">
@@ -112,7 +151,13 @@ export default function Skills() {
             <div className="col-lg-4">
               <div className="skillCard">
                 <span className="skillName">AJAX / JSON</span>
-                <p className="skillQuality"><span className="w-90"></span></p>
+                <p className="skillQuality"><span className="w-98"></span></p>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="skillCard">
+                <span className="skillName">Rest API</span>
+                <p className="skillQuality"><span className="w-95"></span></p>
               </div>
             </div>
             <div className="col-lg-4">
@@ -124,13 +169,13 @@ export default function Skills() {
             <div className="col-lg-4">
               <div className="skillCard">
                 <span className="skillName">Wordpress</span>
-                <p className="skillQuality"><span className="w-90"></span></p>
+                <p className="skillQuality"><span className="w-98"></span></p>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="skillCard">
                 <span className="skillName">REACT JS</span>
-                <p className="skillQuality"><span className="w-80"></span></p>
+                <p className="skillQuality"><span className="w-75"></span></p>
               </div>
             </div>
             <div className="col-lg-4">
@@ -148,6 +193,18 @@ export default function Skills() {
             <div className="col-lg-4">
               <div className="skillCard">
                 <span className="skillName">Codeignitor</span>
+                <p className="skillQuality"><span className="w-80"></span></p>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="skillCard">
+                <span className="skillName">Laravel</span>
+                <p className="skillQuality"><span className="w-90"></span></p>
+              </div>
+            </div>
+            <div className="col-lg-4">
+              <div className="skillCard">
+                <span className="skillName">Payment Gateway</span>
                 <p className="skillQuality"><span className="w-80"></span></p>
               </div>
             </div>

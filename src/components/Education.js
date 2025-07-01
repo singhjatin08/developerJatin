@@ -14,13 +14,13 @@ export default function Education() {
             <div className="container education-container experience-container">
                 <div data-aos="fade-right" data-aos-delay="300" className="experience-box">
                     <div className="experience-box-inner">
-                        <h2>WEB DEVELOPMENT COURSE</h2>
+                        <h2>Full Stack Development Course</h2>
                         <div className="d-flex justify-content-between">
                             <span>HexaCode Institue </span>{" "}
                             <span>June 2021</span>
                         </div>
                         <ul>
-                            <li>Full Stack Developer</li>
+                            <li>HTML / CSS | Bootstrap | JavaScript / jQuery | AJAX / JSON | Rest API | WordPress | Core PHP | Laravel | Codeignitor | React JS | Node JS</li>
                         </ul>
                         <div className="company-logo">
                             <img
