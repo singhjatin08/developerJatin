@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/developerJatin/static/css/main.0fd4f7ba.css",
-    "main.js": "/developerJatin/static/js/main.348ca554.js",
+    "main.css": "/developerJatin/static/css/main.662e2c25.css",
+    "main.js": "/developerJatin/static/js/main.9d33ab73.js",
     "static/js/453.737b3b02.chunk.js": "/developerJatin/static/js/453.737b3b02.chunk.js",
     "static/media/lines.png": "/developerJatin/static/media/lines.d3e1b8b38f0b4d79db59.png",
-    "static/media/Web-Developer-Jatin-Singh.pdf": "/developerJatin/static/media/Web-Developer-Jatin-Singh.eff82941f891a1e4bc92.pdf",
     "static/media/ituapt_logo.png": "/developerJatin/static/media/ituapt_logo.8d1462bbef78e71e62f9.png",
+    "static/media/Web-Developer-Jatin-Singh.pdf": "/developerJatin/static/media/Web-Developer-Jatin-Singh.58535e0d3690a825ae0e.pdf",
     "static/media/globalOpportunities.webp": "/developerJatin/static/media/globalOpportunities.3093612eea7922d92230.webp",
     "static/media/rvhospitality.webp": "/developerJatin/static/media/rvhospitality.9e0d7939a2cdb8f5fdb6.webp",
     "static/media/marwarihorses.webp": "/developerJatin/static/media/marwarihorses.5e2805c6be1ddaca1646.webp",
@@ -36,12 +36,12 @@
     "static/media/hostinger.webp": "/developerJatin/static/media/hostinger.e749ccadaef0a51d4386.webp",
     "static/media/js.webp": "/developerJatin/static/media/js.f0d663e0002a34f24d40.webp",
     "static/media/json.webp": "/developerJatin/static/media/json.926a6a702bb78a9b101a.webp",
-    "main.0fd4f7ba.css.map": "/developerJatin/static/css/main.0fd4f7ba.css.map",
-    "main.348ca554.js.map": "/developerJatin/static/js/main.348ca554.js.map",
+    "main.662e2c25.css.map": "/developerJatin/static/css/main.662e2c25.css.map",
+    "main.9d33ab73.js.map": "/developerJatin/static/js/main.9d33ab73.js.map",
     "453.737b3b02.chunk.js.map": "/developerJatin/static/js/453.737b3b02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fd4f7ba.css",
-    "static/js/main.348ca554.js"
+    "static/css/main.662e2c25.css",
+    "static/js/main.9d33ab73.js"
   ]
 }
