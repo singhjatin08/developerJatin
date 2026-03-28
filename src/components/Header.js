@@ -16,7 +16,7 @@ export default function Header() {
                         <div className="collapse justify-content-end navbar-collapse" id="navbarSupportedContent">
                             <ul className="navbar-nav  mb-2 mb-lg-0">
                                 <li className="nav-item">
-                                    <a className="nav-link active" aria-current="page" href="#about">About</a>
+                                    <a className="nav-link" aria-current="page" href="#about">About</a>
                                 </li>
                                 <li className="nav-item">
                                     <a className="nav-link" href="#skills-section">Skills</a>
@@ -33,7 +33,7 @@ export default function Header() {
                                 <li className="nav-item">
                                     <a className="nav-link" href="#contact">Contact</a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item button">
                                     <a className="nav-link" rel="noreferrer" target='_blank' href={resume}>Resume</a>
                                 </li>
                                 <li className='nav-item nav-call'>

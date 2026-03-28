@@ -39,11 +39,11 @@ export default function Home() {
             <div className="col-md-7 banner-content">
               <div>
                 <p className="welcome-heading">Welcome to my world</p>
-                <div className="banner-heading">
+                <h2 className="banner-heading">
                   <span>Hi! I am </span>
                   <span className="text-orange">Jatin Singh</span>
                   <br /> a <span ref={typewriterRef}>WEB DEVELOPER</span>
-                </div>
+                </h2>
                 <p className="banner-description">
                 I’m Jatin Singh, a passionate php web developer in delhi ncr, specializing in front-end (HTML, CSS, JavaScript) and back-end (PHP, CodeIgniter). Check out my portfolio of responsive, dynamic websites designed to boost your online presence.
                 </p>

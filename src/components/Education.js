@@ -35,7 +35,7 @@ export default function Education() {
                         <h2>Bechlor of Science(BSC)</h2>
                         <div className="d-flex justify-content-between">
                             <span>IGNOU University</span>
-                            <span>June 2024</span>
+                            <span>June 2025</span>
                         </div>
                         <ul>
                             <li>Physice, Chemistry, Maths</li>
@@ -55,7 +55,7 @@ export default function Education() {
                             <span>July 2020</span>
                         </div>
                         <ul>
-                            <li>PCM (Computer Science)</li>
+                            <li>PCM with Computer Science</li>
                         </ul>
                         <div className="company-logo">
                             <img src={soe} alt="company logo" />

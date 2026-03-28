@@ -6,34 +6,35 @@ export default function About() {
     <section className="about" id="about">
       <img src={lines} alt="decorative lines" className="lines" />
       <div className="container">
+        <h3 className="sub-heading text-center">About Jatin Singh</h3>
         <h1 className="section-heading-dark main-h1 pb-4">
-          Best Web Developer in Delhi – Jatin Singh
+          Full Stack Web Developer in Delhi NCR
         </h1>
 
         <div className="about-content">
           <p>
-            I’m <strong>Jatin Singh</strong>, a <strong>professional web developer in Delhi NCR</strong> with 3+ years of experience in building modern, responsive, and SEO-friendly websites. My focus is on delivering clean code, fast-loading pages, and strong UI/UX that help businesses grow online.
+            I’m <strong>Jatin Singh</strong>, a Full Stack Web Developer in Delhi NCR with <strong>4+ years of experience</strong> in building modern, responsive, scalable, and SEO-friendly websites. My expertise lies in building full stack web applications using frontend and backend technologies. I believe in writing clean, maintainable code, along with fast loading speed and strong responsive UI/UX design.
           </p>
 
           <p>
-            As a <strong>PHP developer in Delhi</strong>, I work on both frontend and backend using <strong>HTML, CSS, JavaScript, jQuery, React JS, Bootstrap, and WordPress</strong> on the frontend, and <strong>PHP, Laravel, CodeIgniter, and MySQL</strong> for backend development. I also integrate <strong>payment gateways</strong> like Razorpay, PayU, and CCAvenue to enable secure online transactions.
+            As an experienced <strong>Full Stack Web Developer</strong>, I work on HTML, CSS, Tailwind CSS, JavaScript, jQuery, React JS, Bootstrap, and WordPress for frontend development, and Core PHP, Laravel, CodeIgniter, and MySQL Database for backend development. I have hands-on experience in payment gateway integration, such as Razorpay, PayU, and CCAvenue, ensuring secure online transactions. Additionally, I have strong expertise in designing and implementing RESTful APIs for seamless system communication.
           </p>
 
           <p>
-            I assist clients with everything from <strong>domain and hosting setup</strong> (using GoDaddy, Hostinger, etc.) to deployment, ensuring full control over their digital presence. My work also involves <strong>mobile-first design</strong> principles and creative UI designs.
+            I handle domain and hosting setup using platforms like GoDaddy and Hostinger, along with website deployment and configuration. I also follow mobile-first design principles and focus on building clean, user-friendly interfaces.
           </p>
 
           <p>
-            My portfolio includes successful projects like <em>RERA Filing, Shree Media, RV Hospitality, Rapid Recruiters, Marwari Horses, Engage AI, Growth ITM, Navrang Aroma Candles, Devtechera, Branding Idiots</em>, and <em>Dr. Rajeev Sood</em>. Each reflects my commitment to quality, performance, and client satisfaction.
+            My portfolio includes projects such as business websites (RERA Filing, Global Opportunities, Marwari Horses, Devtechera, Digitalapss, Branding Idiots, EngageAI, Dr. Rajeev Sood), job portal development (The Rapid Recruiters), registration portals with payment gateway integration, eCommerce website development (Tanifuji), and custom CRM & CMS applications.
           </p>
 
-          <h4 className="pt-3">
-            Looking for the best web designer or PHP developer in Delhi?
-          </h4>
           <p>
-            Let’s collaborate to build your next website – fast, secure, and optimized for search engines. Whether you're a startup, business, or agency, I’m here to help you scale with a high-performing online presence.
+            Let’s collaborate to build your next <strong>website development project</strong>—fast, secure, and optimized for search engines. Whether you're a startup, business, or agency, I’m here to help you scale with a high-performing online presence.
           </p>
-          <a href="#contact"><button className="btn btn-primary">Contact Me</button></a>
+
+          <p>
+            Let’s work together to create your next professional website. It will be fast, secure, and designed for growth. I am available for <strong>full-time, part-time, and freelance opportunities</strong>, and I’m ready to contribute to your projects.
+          </p>
         </div>
       </div>
     </section>
