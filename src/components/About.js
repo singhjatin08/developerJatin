@@ -27,11 +27,6 @@ export default function About() {
           <p>
             My portfolio includes projects such as business websites (RERA Filing, Global Opportunities, Marwari Horses, Devtechera, Digitalapss, Branding Idiots, EngageAI, Dr. Rajeev Sood), job portal development (The Rapid Recruiters), registration portals with payment gateway integration, eCommerce website development (Tanifuji), and custom CRM & CMS applications.
           </p>
-
-          <p>
-            Let’s collaborate to build your next <strong>website development project</strong>—fast, secure, and optimized for search engines. Whether you're a startup, business, or agency, I’m here to help you scale with a high-performing online presence.
-          </p>
-
           <p>
             Let’s work together to create your next professional website. It will be fast, secure, and designed for growth. I am available for <strong>full-time, part-time, and freelance opportunities</strong>, and I’m ready to contribute to your projects.
           </p>
